@@ -49,6 +49,17 @@ p {
   margin-top: 10px;
 }
 
+/*BOX COLOR*/
+.sunrise {
+  background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+}
+.frost {
+  background: linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
+}
+.lime {
+  background: linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%);
+}
+
 
 hr {
   border: 1px solid rgba(51, 51, 51, 0.062);

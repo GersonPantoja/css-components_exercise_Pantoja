@@ -54,6 +54,12 @@ p {
   max-width: 32rem;
 }
 
+.card-horizontal--adjustment {
+  margin-left: 15px;
+  margin-right: 8px;
+  height: 120px;
+}
+
 .card-horizontal__minititle {
   font-size: 15px;
   color: #fff;

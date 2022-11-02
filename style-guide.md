@@ -7,14 +7,14 @@
 
 ## Typography
 
-- Font size (Main Title): 30px | 30rem
+- Font size (Main Title): 30px | 30rem /
 - Font size (Sub Title): 25px | 2.5rem
 - Font size (Mini Title): 15px | 1.5rem
 - Font size (paragraph): 13px | 1.3rem
 
 ### Colors
 
--Accent : #c30052
--Dark : #333
--Light: #fff
--Light Gray: 767676
+-Accent : #c30052 / (Main title)
+-Dark : #333 (Sub title)
+-Light: #fff (Mini title)
+-Light Gray: 767676 (paragraph)

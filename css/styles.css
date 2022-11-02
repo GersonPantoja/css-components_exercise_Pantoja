@@ -25,6 +25,7 @@ p {
   place-content: center;
 }
 
+/*CARD CLASS BLOCK*/
 .card {
   border-radius: 0.7rem;
   box-shadow: 0.3rem 0.3rem 1.5rem rgba(0, 0, 0, 0.15);
@@ -53,6 +54,11 @@ p {
   max-width: 32rem;
 }
 
+.card-horizontal__minititle {
+  font-size: 15px;
+  color: #fff;
+}
+/*BOX CLASS BLOCK*/
 .box {
   width: 92%;
   min-height: 20rem;

@@ -58,6 +58,11 @@ p {
   font-size: 15px;
   color: #fff;
 }
+
+.card-horizontal__paragraph {
+  font-size: 13px;
+  color: #767676;
+}
 /*BOX CLASS BLOCK*/
 .box {
   width: 92%;

@@ -63,11 +63,14 @@ p {
 .card-horizontal__minititle {
   font-size: 15px;
   color: #fff;
+  margin-left: 10px;
 }
 
 .card-horizontal__paragraph {
   font-size: 13px;
   color: #767676;
+  margin-left: 10px;
+  font-weight: bold;
 }
 /*BOX CLASS BLOCK*/
 .box {

@@ -39,6 +39,7 @@ p {
 
 .card__button{
   font-size: 15px;
+  font-weight: bold;
   color: #fff;
   margin-top: 0px;
   margin-bottom: 10px;

@@ -14,6 +14,11 @@ p {
   padding: 0;
 }
 
+.main-title {
+  font-size: 30px;
+  color: #c30052;
+}
+
 .container {
   display: grid;
   min-height: 90vh;
